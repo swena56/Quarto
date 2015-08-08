@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 812da940846b4a74f91d7a8f4cbbf54a
+timeCreated: 1439013296
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f01000060010000610100006201000063010000640100006501000066010000670100006801000069010000
+  assetHash:
+    serializedVersion: 2
+    Hash: c5b967357be09000e50c0d62c54c24e7
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.97727919, y: 4.60995817, z: 18.9012127}
+      lookAt: {x: 4.8194766, y: 8.32023048, z: 1.40746105}
+      up: {x: .00187138992, y: .978241801, z: .207459629}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 90 inch flat screen tv
+    100002: a
+    100004: b0
+    100006: b1
+    100008: b2
+    100010: b3
+    100012: b4
+    100014: b5
+    100016: bench
+    100018: book
+    100020: book2
+    100022: c
+    100024: coasters
+    100026: Component#1
+    100028: Component#1 1
+    100030: Component#1 2
+    100032: Component#1 3
+    100034: Component#1 4
+    100036: Component#1 5
+    100038: Component#2
+    100040: Component#3
+    100042: Component#4
+    100044: Component#6
+    100046: Component#7
+    100048: Component#76
+    100050: Cone01
+    100052: copthorne burnt clay#1
+    100054: copthorne burnt clay#1 1
+    100056: copthorne burnt clay#1 2
+    100058: copthorne old oak#1
+    100060: copthorne old oak#1 1
+    100062: copthorne old oak#1 2
+    100064: copthorne old oak#1 3
+    100066: copthorne red#2
+    100068: copthorne red#2 1
+    100070: copthorne red#2 2
+    100072: copthorne red#2 3
+    100074: copthorne red#2 4
+    100076: Corner Fireplace
+    100078: Cortina 2
+    100080: cover
+    100082: d
+    100084: distancia
+    100086: e
+    100088: Ekitta_Canton Coffee Table
+    100090: Ekitta_Canton End Table
+    100092: f
+    100094: g
+    100096: grand piano
+    100098: Group 10
+    100100: Group 12
+    100102: Group 136
+    100104: Group 137
+    100106: Group 139
+    100108: Group 141
+    100110: Group 143
+    100112: Group 144
+    100114: Group 146
+    100116: Group 148
+    100118: Group 150
+    100120: Group 178
+    100122: Group 181
+    100124: Group 183
+    100126: Group 184
+    100128: Group 186
+    100130: Group 188
+    100132: Group 189
+    100134: Group 191
+    100136: Group 198
+    100138: Group 2
+    100140: Group 200
+    100142: Group 201
+    100144: Group 203
+    100146: Group 205
+    100148: Group 207
+    100150: Group 209
+    100152: Group 211
+    100154: Group 274
+    100156: Group 323
+    100158: Group 5
+    100160: Group 6
+    100162: Group 73
+    100164: Group 75
+    100166: Group 8
+    100168: Group#342
+    100170: Group#342 1
+    100172: Karniz01
+    100174: Karniz02
+    100176: Karniz04
+    100178: Karniz05
+    100180: L-shaped Sofa
+    100182: legs
+    100184: lid
+    100186: lid2
+    100188: //RootNode
+    100190: Log
+    100192: Log 1
+    100194: Log 10
+    100196: Log 11
+    100198: Log 12
+    100200: Log 13
+    100202: Log 14
+    100204: Log 15
+    100206: Log 16
+    100208: Log 17
+    100210: Log 18
+    100212: Log 19
+    100214: Log 2
+    100216: Log 20
+    100218: Log 21
+    100220: Log 22
+    100222: Log 23
+    100224: Log 24
+    100226: Log 25
+    100228: Log 26
+    100230: Log 27
+    100232: Log 28
+    100234: Log 29
+    100236: Log 3
+    100238: Log 30
+    100240: Log 31
+    100242: Log 32
+    100244: Log 33
+    100246: Log 34
+    100248: Log 35
+    100250: Log 36
+    100252: Log 37
+    100254: Log 38
+    100256: Log 39
+    100258: Log 4
+    100260: Log 40
+    100262: Log 41
+    100264: Log 42
+    100266: Log 43
+    100268: Log 44
+    100270: Log 45
+    100272: Log 46
+    100274: Log 47
+    100276: Log 48
+    100278: Log 49
+    100280: Log 5
+    100282: Log 50
+    100284: Log 51
+    100286: Log 52
+    100288: Log 53
+    100290: Log 54
+    100292: Log 55
+    100294: Log 56
+    100296: Log 57
+    100298: Log 6
+    100300: Log 7
+    100302: Log 8
+    100304: Log 9
+    100306: main
+    100308: New Yorker Ceiling Fan
+    100310: New Yorker Ceiling Fan 1
+    100312: petals
+    100314: petbox
+    100316: Pillow
+    100318: Pillow 1
+    100320: Pillow 10
+    100322: Pillow 2
+    100324: Pillow 3
+    100326: Pillow 4
+    100328: Pillow 5
+    100330: Pillow 6
+    100332: Pillow 7
+    100334: Pillow 8
+    100336: Pillow 9
+    100338: Remote Control
+    100340: rods
+    100342: seat
+    100344: Shora02
+    100346: Shora02 1
+    100348: Shora05
+    100350: Shora05 1
+    100352: Shora06
+    100354: Shora06 1
+    100356: Shora06 2
+    100358: Shora06 3
+    100360: Shora07
+    100362: Shora07 1
+    100364: skp59
+    100366: skp5F50
+    100368: Stacked Stone Corner Fireplace
+    100370: su2kt_pointlight#1
+    100372: support
+    100374: Susan
+    100376: Tul
+    100378: Tul 1
+    100380: Tuscany Fireplace, Hearth, Wood Box Set (Sierra)
+    400000: 90 inch flat screen tv
+    400002: a
+    400004: b0
+    400006: b1
+    400008: b2
+    400010: b3
+    400012: b4
+    400014: b5
+    400016: bench
+    400018: book
+    400020: book2
+    400022: c
+    400024: coasters
+    400026: Component#1
+    400028: Component#1 1
+    400030: Component#1 2
+    400032: Component#1 3
+    400034: Component#1 4
+    400036: Component#1 5
+    400038: Component#2
+    400040: Component#3
+    400042: Component#4
+    400044: Component#6
+    400046: Component#7
+    400048: Component#76
+    400050: Cone01
+    400052: copthorne burnt clay#1
+    400054: copthorne burnt clay#1 1
+    400056: copthorne burnt clay#1 2
+    400058: copthorne old oak#1
+    400060: copthorne old oak#1 1
+    400062: copthorne old oak#1 2
+    400064: copthorne old oak#1 3
+    400066: copthorne red#2
+    400068: copthorne red#2 1
+    400070: copthorne red#2 2
+    400072: copthorne red#2 3
+    400074: copthorne red#2 4
+    400076: Corner Fireplace
+    400078: Cortina 2
+    400080: cover
+    400082: d
+    400084: distancia
+    400086: e
+    400088: Ekitta_Canton Coffee Table
+    400090: Ekitta_Canton End Table
+    400092: f
+    400094: g
+    400096: grand piano
+    400098: Group 10
+    400100: Group 12
+    400102: Group 136
+    400104: Group 137
+    400106: Group 139
+    400108: Group 141
+    400110: Group 143
+    400112: Group 144
+    400114: Group 146
+    400116: Group 148
+    400118: Group 150
+    400120: Group 178
+    400122: Group 181
+    400124: Group 183
+    400126: Group 184
+    400128: Group 186
+    400130: Group 188
+    400132: Group 189
+    400134: Group 191
+    400136: Group 198
+    400138: Group 2
+    400140: Group 200
+    400142: Group 201
+    400144: Group 203
+    400146: Group 205
+    400148: Group 207
+    400150: Group 209
+    400152: Group 211
+    400154: Group 274
+    400156: Group 323
+    400158: Group 5
+    400160: Group 6
+    400162: Group 73
+    400164: Group 75
+    400166: Group 8
+    400168: Group#342
+    400170: Group#342 1
+    400172: Karniz01
+    400174: Karniz02
+    400176: Karniz04
+    400178: Karniz05
+    400180: L-shaped Sofa
+    400182: legs
+    400184: lid
+    400186: lid2
+    400188: //RootNode
+    400190: Log
+    400192: Log 1
+    400194: Log 10
+    400196: Log 11
+    400198: Log 12
+    400200: Log 13
+    400202: Log 14
+    400204: Log 15
+    400206: Log 16
+    400208: Log 17
+    400210: Log 18
+    400212: Log 19
+    400214: Log 2
+    400216: Log 20
+    400218: Log 21
+    400220: Log 22
+    400222: Log 23
+    400224: Log 24
+    400226: Log 25
+    400228: Log 26
+    400230: Log 27
+    400232: Log 28
+    400234: Log 29
+    400236: Log 3
+    400238: Log 30
+    400240: Log 31
+    400242: Log 32
+    400244: Log 33
+    400246: Log 34
+    400248: Log 35
+    400250: Log 36
+    400252: Log 37
+    400254: Log 38
+    400256: Log 39
+    400258: Log 4
+    400260: Log 40
+    400262: Log 41
+    400264: Log 42
+    400266: Log 43
+    400268: Log 44
+    400270: Log 45
+    400272: Log 46
+    400274: Log 47
+    400276: Log 48
+    400278: Log 49
+    400280: Log 5
+    400282: Log 50
+    400284: Log 51
+    400286: Log 52
+    400288: Log 53
+    400290: Log 54
+    400292: Log 55
+    400294: Log 56
+    400296: Log 57
+    400298: Log 6
+    400300: Log 7
+    400302: Log 8
+    400304: Log 9
+    400306: main
+    400308: New Yorker Ceiling Fan
+    400310: New Yorker Ceiling Fan 1
+    400312: petals
+    400314: petbox
+    400316: Pillow
+    400318: Pillow 1
+    400320: Pillow 10
+    400322: Pillow 2
+    400324: Pillow 3
+    400326: Pillow 4
+    400328: Pillow 5
+    400330: Pillow 6
+    400332: Pillow 7
+    400334: Pillow 8
+    400336: Pillow 9
+    400338: Remote Control
+    400340: rods
+    400342: seat
+    400344: Shora02
+    400346: Shora02 1
+    400348: Shora05
+    400350: Shora05 1
+    400352: Shora06
+    400354: Shora06 1
+    400356: Shora06 2
+    400358: Shora06 3
+    400360: Shora07
+    400362: Shora07 1
+    400364: skp59
+    400366: skp5F50
+    400368: Stacked Stone Corner Fireplace
+    400370: su2kt_pointlight#1
+    400372: support
+    400374: Susan
+    400376: Tul
+    400378: Tul 1
+    400380: Tuscany Fireplace, Hearth, Wood Box Set (Sierra)
+    2300000: 90 inch flat screen tv
+    2300002: a
+    2300004: b0
+    2300006: b1
+    2300008: b2
+    2300010: b3
+    2300012: b4
+    2300014: b5
+    2300016: bench
+    2300018: book
+    2300020: book2
+    2300022: c
+    2300024: coasters
+    2300026: Component#1
+    2300028: Component#1 1
+    2300030: Component#1 2
+    2300032: Component#1 3
+    2300034: Component#1 4
+    2300036: Component#1 5
+    2300038: Component#2
+    2300040: Component#3
+    2300042: Component#4
+    2300044: Component#6
+    2300046: Component#7
+    2300048: Component#76
+    2300050: Cone01
+    2300052: copthorne burnt clay#1
+    2300054: copthorne burnt clay#1 1
+    2300056: copthorne burnt clay#1 2
+    2300058: copthorne old oak#1
+    2300060: copthorne old oak#1 1
+    2300062: copthorne old oak#1 2
+    2300064: copthorne old oak#1 3
+    2300066: copthorne red#2
+    2300068: copthorne red#2 1
+    2300070: copthorne red#2 2
+    2300072: copthorne red#2 3
+    2300074: copthorne red#2 4
+    2300076: Corner Fireplace
+    2300078: cover
+    2300080: d
+    2300082: distancia
+    2300084: e
+    2300086: Ekitta_Canton Coffee Table
+    2300088: f
+    2300090: g
+    2300092: Group 10
+    2300094: Group 12
+    2300096: Group 137
+    2300098: Group 139
+    2300100: Group 141
+    2300102: Group 144
+    2300104: Group 146
+    2300106: Group 148
+    2300108: Group 181
+    2300110: Group 184
+    2300112: Group 186
+    2300114: Group 189
+    2300116: Group 191
+    2300118: Group 198
+    2300120: Group 2
+    2300122: Group 201
+    2300124: Group 203
+    2300126: Group 205
+    2300128: Group 207
+    2300130: Group 209
+    2300132: Group 211
+    2300134: Group 274
+    2300136: Group 323
+    2300138: Group 6
+    2300140: Group 73
+    2300142: Group 75
+    2300144: Group 8
+    2300146: Karniz01
+    2300148: Karniz02
+    2300150: Karniz04
+    2300152: Karniz05
+    2300154: legs
+    2300156: lid
+    2300158: lid2
+    2300160: //RootNode
+    2300162: Log
+    2300164: Log 1
+    2300166: Log 10
+    2300168: Log 11
+    2300170: Log 12
+    2300172: Log 13
+    2300174: Log 14
+    2300176: Log 15
+    2300178: Log 16
+    2300180: Log 17
+    2300182: Log 18
+    2300184: Log 19
+    2300186: Log 2
+    2300188: Log 20
+    2300190: Log 21
+    2300192: Log 22
+    2300194: Log 23
+    2300196: Log 24
+    2300198: Log 25
+    2300200: Log 26
+    2300202: Log 27
+    2300204: Log 28
+    2300206: Log 29
+    2300208: Log 3
+    2300210: Log 30
+    2300212: Log 31
+    2300214: Log 32
+    2300216: Log 33
+    2300218: Log 34
+    2300220: Log 35
+    2300222: Log 36
+    2300224: Log 37
+    2300226: Log 38
+    2300228: Log 39
+    2300230: Log 4
+    2300232: Log 40
+    2300234: Log 41
+    2300236: Log 42
+    2300238: Log 43
+    2300240: Log 44
+    2300242: Log 45
+    2300244: Log 46
+    2300246: Log 47
+    2300248: Log 48
+    2300250: Log 49
+    2300252: Log 5
+    2300254: Log 50
+    2300256: Log 51
+    2300258: Log 52
+    2300260: Log 53
+    2300262: Log 54
+    2300264: Log 55
+    2300266: Log 56
+    2300268: Log 57
+    2300270: Log 6
+    2300272: Log 7
+    2300274: Log 8
+    2300276: Log 9
+    2300278: main
+    2300280: New Yorker Ceiling Fan 1
+    2300282: petals
+    2300284: petbox
+    2300286: Pillow
+    2300288: Pillow 1
+    2300290: Pillow 10
+    2300292: Pillow 2
+    2300294: Pillow 3
+    2300296: Pillow 4
+    2300298: Pillow 5
+    2300300: Pillow 6
+    2300302: Pillow 7
+    2300304: Pillow 8
+    2300306: Pillow 9
+    2300308: rods
+    2300310: seat
+    2300312: Shora02
+    2300314: Shora02 1
+    2300316: Shora05
+    2300318: Shora05 1
+    2300320: Shora06
+    2300322: Shora06 1
+    2300324: Shora06 2
+    2300326: Shora06 3
+    2300328: Shora07
+    2300330: Shora07 1
+    2300332: su2kt_pointlight#1
+    2300334: support
+    2300336: Susan
+    2300338: Tul
+    2300340: Tul 1
+    3300000: 90 inch flat screen tv
+    3300002: a
+    3300004: b0
+    3300006: b1
+    3300008: b2
+    3300010: b3
+    3300012: b4
+    3300014: b5
+    3300016: bench
+    3300018: book
+    3300020: book2
+    3300022: c
+    3300024: coasters
+    3300026: Component#1
+    3300028: Component#1 1
+    3300030: Component#1 2
+    3300032: Component#1 3
+    3300034: Component#1 4
+    3300036: Component#1 5
+    3300038: Component#2
+    3300040: Component#3
+    3300042: Component#4
+    3300044: Component#6
+    3300046: Component#7
+    3300048: Component#76
+    3300050: Cone01
+    3300052: copthorne burnt clay#1
+    3300054: copthorne burnt clay#1 1
+    3300056: copthorne burnt clay#1 2
+    3300058: copthorne old oak#1
+    3300060: copthorne old oak#1 1
+    3300062: copthorne old oak#1 2
+    3300064: copthorne old oak#1 3
+    3300066: copthorne red#2
+    3300068: copthorne red#2 1
+    3300070: copthorne red#2 2
+    3300072: copthorne red#2 3
+    3300074: copthorne red#2 4
+    3300076: Corner Fireplace
+    3300078: cover
+    3300080: d
+    3300082: distancia
+    3300084: e
+    3300086: Ekitta_Canton Coffee Table
+    3300088: f
+    3300090: g
+    3300092: Group 10
+    3300094: Group 12
+    3300096: Group 137
+    3300098: Group 139
+    3300100: Group 141
+    3300102: Group 144
+    3300104: Group 146
+    3300106: Group 148
+    3300108: Group 181
+    3300110: Group 184
+    3300112: Group 186
+    3300114: Group 189
+    3300116: Group 191
+    3300118: Group 198
+    3300120: Group 2
+    3300122: Group 201
+    3300124: Group 203
+    3300126: Group 205
+    3300128: Group 207
+    3300130: Group 209
+    3300132: Group 211
+    3300134: Group 274
+    3300136: Group 323
+    3300138: Group 6
+    3300140: Group 73
+    3300142: Group 75
+    3300144: Group 8
+    3300146: Karniz01
+    3300148: Karniz02
+    3300150: Karniz04
+    3300152: Karniz05
+    3300154: legs
+    3300156: lid
+    3300158: lid2
+    3300160: //RootNode
+    3300162: Log
+    3300164: Log 1
+    3300166: Log 10
+    3300168: Log 11
+    3300170: Log 12
+    3300172: Log 13
+    3300174: Log 14
+    3300176: Log 15
+    3300178: Log 16
+    3300180: Log 17
+    3300182: Log 18
+    3300184: Log 19
+    3300186: Log 2
+    3300188: Log 20
+    3300190: Log 21
+    3300192: Log 22
+    3300194: Log 23
+    3300196: Log 24
+    3300198: Log 25
+    3300200: Log 26
+    3300202: Log 27
+    3300204: Log 28
+    3300206: Log 29
+    3300208: Log 3
+    3300210: Log 30
+    3300212: Log 31
+    3300214: Log 32
+    3300216: Log 33
+    3300218: Log 34
+    3300220: Log 35
+    3300222: Log 36
+    3300224: Log 37
+    3300226: Log 38
+    3300228: Log 39
+    3300230: Log 4
+    3300232: Log 40
+    3300234: Log 41
+    3300236: Log 42
+    3300238: Log 43
+    3300240: Log 44
+    3300242: Log 45
+    3300244: Log 46
+    3300246: Log 47
+    3300248: Log 48
+    3300250: Log 49
+    3300252: Log 5
+    3300254: Log 50
+    3300256: Log 51
+    3300258: Log 52
+    3300260: Log 53
+    3300262: Log 54
+    3300264: Log 55
+    3300266: Log 56
+    3300268: Log 57
+    3300270: Log 6
+    3300272: Log 7
+    3300274: Log 8
+    3300276: Log 9
+    3300278: main
+    3300280: New Yorker Ceiling Fan 1
+    3300282: petals
+    3300284: petbox
+    3300286: Pillow
+    3300288: Pillow 1
+    3300290: Pillow 10
+    3300292: Pillow 2
+    3300294: Pillow 3
+    3300296: Pillow 4
+    3300298: Pillow 5
+    3300300: Pillow 6
+    3300302: Pillow 7
+    3300304: Pillow 8
+    3300306: Pillow 9
+    3300308: rods
+    3300310: seat
+    3300312: Shora02
+    3300314: Shora02 1
+    3300316: Shora05
+    3300318: Shora05 1
+    3300320: Shora06
+    3300322: Shora06 1
+    3300324: Shora06 2
+    3300326: Shora06 3
+    3300328: Shora07
+    3300330: Shora07 1
+    3300332: su2kt_pointlight#1
+    3300334: support
+    3300336: Susan
+    3300338: Tul
+    3300340: Tul 1
+    4300000: Mesh Living Room
+    4300002: Mesh Group 2
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Log
+    4300014: Mesh Group 137
+    4300016: Mesh Group 139
+    4300018: Mesh Group 141
+    4300020: Mesh Group 144
+    4300022: Mesh Group 146
+    4300024: Mesh Group 148
+    4300026: Mesh copthorne old oak#1
+    4300028: Mesh copthorne burnt clay#1
+    4300030: Mesh copthorne red#2
+    4300032: Mesh copthorne old oak#1
+    4300034: Mesh copthorne red#2
+    4300036: Mesh Component#76
+    4300038: Mesh Corner Fireplace
+    4300040: Mesh Group 181
+    4300042: Mesh Group 184
+    4300044: Mesh Group 186
+    4300046: Mesh Susan
+    4300048: Mesh New Yorker Ceiling Fan
+    4300050: Mesh Group 198
+    4300052: Mesh Group 201
+    4300054: Mesh Group 203
+    4300056: Mesh Group 205
+    4300058: Mesh Group 207
+    4300060: Mesh Group 209
+    4300062: Mesh Group 211
+    4300064: Mesh su2kt_pointlight#1
+    4300066: Mesh a
+    4300068: Mesh b0
+    4300070: Mesh b1
+    4300072: Mesh b2
+    4300074: Mesh b3
+    4300076: Mesh b4
+    4300078: Mesh b5
+    4300080: Mesh bench
+    4300082: Mesh book
+    4300084: Mesh book2
+    4300086: Mesh c
+    4300088: Mesh coasters
+    4300090: Mesh cover
+    4300092: Mesh d
+    4300094: Mesh e
+    4300096: Mesh f
+    4300098: Mesh g
+    4300100: Mesh legs
+    4300102: Mesh lid
+    4300104: Mesh lid2
+    4300106: Mesh main
+    4300108: Mesh petals
+    4300110: Mesh petbox
+    4300112: Mesh rods
+    4300114: Mesh seat
+    4300116: Mesh support
+    4300118: Mesh 90 inch flat screen tv
+    4300120: Mesh Component#2
+    4300122: Mesh Group 274
+    4300124: Mesh Component#1
+    4300126: Mesh Pillow
+    4300128: Mesh Component#1
+    4300130: Mesh Pillow
+    4300132: Mesh Component#4
+    4300134: Mesh Component#3
+    4300136: Mesh Ekitta_Canton Coffee Table
+    4300138: Mesh Component#7
+    4300140: Mesh Component#6
+    4300142: Mesh Group 323
+    4300144: Mesh Cone01
+    4300146: Mesh Karniz01
+    4300148: Mesh Karniz02
+    4300150: Mesh Karniz04
+    4300152: Mesh Karniz05
+    4300154: Mesh Shora02
+    4300156: Mesh Shora06
+    4300158: Mesh Shora07
+    4300160: Mesh Tul
+    4300162: Mesh Shora05
+    4300164: Mesh distancia
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

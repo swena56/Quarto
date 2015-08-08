@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: d321419b1bc70fc428ef1a2df9a895a7
+timeCreated: 1439012399
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9f8853730dbe88422247dbbbac2d5568
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -.15520981, y: .181997046, z: .298030764}
+      lookAt: {x: -.071410574, y: .028792927, z: .121370606}
+      up: {x: .264332235, y: .787148535, z: -.557248294}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -.15520981, y: .181997046, z: .298030764}
+        lookAt: {x: -.071410574, y: .028792927, z: .121370606}
+        up: {x: .264332235, y: .787148535, z: -.557248294}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: //RootNode
+    100004: Short round hollow dark
+    100006: Short round hollow light
+    100008: Short round solid dark
+    100010: Short round solid light
+    100012: Short square hollow dark
+    100014: Short square hollow light
+    100016: Short square solid dark
+    100018: Short square solid light
+    100020: Tall round hollow dark
+    100022: Tall round hollow light
+    100024: Tall round solid dark
+    100026: Tall round solid light
+    100028: Tall square hollow dark
+    100030: Tall square hollow light
+    100032: Tall square solid dark
+    100034: Tall square solid light
+    100036: Top surface
+    400000: Base
+    400002: //RootNode
+    400004: Short round hollow dark
+    400006: Short round hollow light
+    400008: Short round solid dark
+    400010: Short round solid light
+    400012: Short square hollow dark
+    400014: Short square hollow light
+    400016: Short square solid dark
+    400018: Short square solid light
+    400020: Tall round hollow dark
+    400022: Tall round hollow light
+    400024: Tall round solid dark
+    400026: Tall round solid light
+    400028: Tall square hollow dark
+    400030: Tall square hollow light
+    400032: Tall square solid dark
+    400034: Tall square solid light
+    400036: Top surface
+    2300000: Base
+    2300002: //RootNode
+    2300004: Short round hollow dark
+    2300006: Short round hollow light
+    2300008: Short round solid dark
+    2300010: Short round solid light
+    2300012: Short square hollow dark
+    2300014: Short square hollow light
+    2300016: Short square solid dark
+    2300018: Short square solid light
+    2300020: Tall round hollow dark
+    2300022: Tall round hollow light
+    2300024: Tall round solid dark
+    2300026: Tall round solid light
+    2300028: Tall square hollow dark
+    2300030: Tall square hollow light
+    2300032: Tall square solid dark
+    2300034: Tall square solid light
+    2300036: Top surface
+    3300000: Base
+    3300002: //RootNode
+    3300004: Short round hollow dark
+    3300006: Short round hollow light
+    3300008: Short round solid dark
+    3300010: Short round solid light
+    3300012: Short square hollow dark
+    3300014: Short square hollow light
+    3300016: Short square solid dark
+    3300018: Short square solid light
+    3300020: Tall round hollow dark
+    3300022: Tall round hollow light
+    3300024: Tall round solid dark
+    3300026: Tall round solid light
+    3300028: Tall square hollow dark
+    3300030: Tall square hollow light
+    3300032: Tall square solid dark
+    3300034: Tall square solid light
+    3300036: Top surface
+    4300000: Mesh Quarto-gwp
+    4300002: Mesh Tall square solid light
+    4300004: Mesh Tall square hollow light
+    4300006: Mesh Short square solid light
+    4300008: Mesh Short square hollow light
+    4300010: Mesh Tall round solid light
+    4300012: Mesh Tall round hollow light
+    4300014: Mesh Short round solid light
+    4300016: Mesh Short round hollow light
+    4300018: Mesh Tall square solid dark
+    4300020: Mesh Tall round solid dark
+    4300022: Mesh Tall round hollow dark
+    4300024: Mesh Tall square hollow dark
+    4300026: Mesh Short square solid dark
+    4300028: Mesh Short square hollow dark
+    4300030: Mesh Short round solid dark
+    4300032: Mesh Short round hollow dark
+    4300034: Mesh Top surface
+    4300036: Mesh Base
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
